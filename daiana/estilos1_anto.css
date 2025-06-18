@@ -1,0 +1,9 @@
+body {
+    background-color: #e0f7fa; /* Color claro de fondo */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #00796b; /* Color que contrasta */
+}
