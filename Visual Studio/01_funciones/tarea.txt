@@ -1,0 +1,8 @@
+
+
+
+1. Crear un carpeta llamado tarea.js
+2. Crear una función llamada pagar.
+3. Que la función reciba un argumento llamado dinero.
+4. Que la tarea de la función sea restar dinero de una cuenta.
+5. Que le informe al usuario en un console.log() el dinero que le queda de saldo
